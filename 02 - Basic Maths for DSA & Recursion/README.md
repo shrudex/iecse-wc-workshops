@@ -30,4 +30,4 @@ The workshop covered the following topics:
 - [Recording](https://learnermanipal-my.sharepoint.com/:v:/g/personal/srishti_mitmpl2022_learner_manipal_edu/Echkhf6vq6hBofJH0oqZ7UMBLsUwhbtvM4UleblgKfc7bQ?referrer=Teams.TEAMS-ELECTRON&referrerScenario=MeetingChicletGetLink.view.view)
   
 ### Presentation Files 🖥️
-- [Handout](Basic%20Maths%20for%20DSA%20%26%20Recursion/W2-Basic%20Maths%20%26%20Recursion.pdf)
+- [Handout](02 - Basic Maths for DSA & Recursion/W2-Basic Maths & Recursion.pdf)
