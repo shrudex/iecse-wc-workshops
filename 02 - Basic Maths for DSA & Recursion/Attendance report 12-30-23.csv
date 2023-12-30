@@ -1,0 +1,183 @@
+﻿1. Summary
+Meeting title	Basic Maths for DSA & Recursion - IECSE Workshop!
+Attended participants	74
+Start time	12/30/23, 5:43:07 PM
+End time	12/30/23, 8:10:07 PM
+Meeting duration	2h 27m
+Average attendance time	1h 6m 53s
+
+2. Participants
+Name	First Join	Last Leave	In-Meeting Duration	Email	Participant ID (UPN)	Role
+SHUBH SINHA - 210968172	12/30/23, 5:45:59 PM	12/30/23, 6:44:40 PM	9m 2s	shubh.sinha@learner.manipal.edu	shubh.sinha@learner.manipal.edu	Organizer
+TEJESWAR POKURI - 122140880 - MITMPL	12/30/23, 5:43:19 PM	12/30/23, 8:10:07 PM	2h 26m 48s	tejeswar.mitmpl2022@learner.manipal.edu	tejeswar.mitmpl2022@learner.manipal.edu	Organizer
+SRISHTI SINGH - 122152572 - MITMPL	12/30/23, 5:45:12 PM	12/30/23, 8:10:07 PM	2h 24m 55s	srishti.mitmpl2022@learner.manipal.edu	srishti.mitmpl2022@learner.manipal.edu	Organizer
+Aman garg - 123191659 - MITMPL	12/30/23, 5:46:38 PM	12/30/23, 6:44:09 PM	30m 50s	aman1.mitmpl2023@learner.manipal.edu	aman1.mitmpl2023@learner.manipal.edu	Attendee
+Om Dhondge	12/30/23, 5:52:57 PM	12/30/23, 8:09:59 PM	2h 17m 2s			Attendee
+Diptarka Nandi - 123102883 - MITMPL	12/30/23, 5:54:50 PM	12/30/23, 8:09:18 PM	2h 14m 28s	diptarka.mitmpl2023@learner.manipal.edu	diptarka.mitmpl2023@learner.manipal.edu	Attendee
+Riddhima Chauhan - 123157150 - MITMPL	12/30/23, 5:55:17 PM	12/30/23, 6:24:34 PM	29m 16s	riddhima1.mitmpl2023@learner.manipal.edu	riddhima1.mitmpl2023@learner.manipal.edu	Attendee
+Param Rahul Mehta - 123111735 - MITMPL	12/30/23, 5:55:48 PM	12/30/23, 7:52:18 PM	1h 19m 9s	param.mitmpl2023@learner.manipal.edu	param.mitmpl2023@learner.manipal.edu	Attendee
+Shruten Harish Pande - 123147556 - MITMPL	12/30/23, 5:55:55 PM	12/30/23, 7:53:04 PM	1h 57m 8s	shruten.mitmpl2023@learner.manipal.edu	shruten.mitmpl2023@learner.manipal.edu	Attendee
+Vaidheesh Bharadwaj - 123138507 - MITMPL	12/30/23, 5:56:05 PM	12/30/23, 7:33:37 PM	1h 37m 31s	vaidheesh.mitmpl2023@learner.manipal.edu	vaidheesh.mitmpl2023@learner.manipal.edu	Attendee
+HARSHA N K - 123143862 - MITMPL	12/30/23, 5:56:32 PM	12/30/23, 7:42:54 PM	1h 43m 45s	harsha.mitmpl2023@learner.manipal.edu	harsha.mitmpl2023@learner.manipal.edu	Attendee
+Barri Harshith - 123174617 - MITMPL	12/30/23, 5:56:43 PM	12/30/23, 8:10:04 PM	2h 5m 42s	barri.mitmpl2023@learner.manipal.edu	barri.mitmpl2023@learner.manipal.edu	Attendee
+PRASANNA - 123102188 - MITMPL	12/30/23, 5:57:17 PM	12/30/23, 8:09:39 PM	2h 12m 22s	prasanna.mitmpl2023@learner.manipal.edu	prasanna.mitmpl2023@learner.manipal.edu	Attendee
+Uday	12/30/23, 5:57:26 PM	12/30/23, 6:42:55 PM	45m 29s			Attendee
+SWETA CHUNDURI - 210905414	12/30/23, 5:58:15 PM	12/30/23, 6:20:32 PM	1m 19s	sweta.chunduri@learner.manipal.edu	sweta.chunduri@learner.manipal.edu	Attendee
+Nilamber Das Roy - 123186099 - MITMPL	12/30/23, 5:58:18 PM	12/30/23, 7:16:29 PM	1h 18m 10s	nilamber.mitmpl2023@learner.manipal.edu	nilamber.mitmpl2023@learner.manipal.edu	Attendee
+Sapthami	12/30/23, 5:58:41 PM	12/30/23, 8:10:07 PM	2h 11m 25s			Attendee
+Akhil Appayya - 123104490 - MITMPL	12/30/23, 5:59:00 PM	12/30/23, 7:53:49 PM	1h 54m 48s	akhil.mitmpl2023@learner.manipal.edu	akhil.mitmpl2023@learner.manipal.edu	Attendee
+SUDEEP SHARMA - 123157274 - MITMPL	12/30/23, 5:59:22 PM	12/30/23, 7:42:39 PM	1h 43m 17s	sudeep.mitmpl2023@learner.manipal.edu	sudeep.mitmpl2023@learner.manipal.edu	Attendee
+Annanya Tayal - 123117849 - MITMPL	12/30/23, 5:59:33 PM	12/30/23, 8:10:07 PM	2h 10m 34s	annanya.mitmpl2023@learner.manipal.edu	annanya.mitmpl2023@learner.manipal.edu	Attendee
+Hrithiq Gupta - 123176698 - MITMPL	12/30/23, 5:59:43 PM	12/30/23, 8:10:07 PM	2h 10m 24s	hrithiq.mitmpl2023@learner.manipal.edu	hrithiq.mitmpl2023@learner.manipal.edu	Attendee
+MANAN SETHI - 230905211 - MITMPL	12/30/23, 6:00:04 PM	12/30/23, 7:55:35 PM	1h 55m 30s	manan.mitmpl2023@learner.manipal.edu	manan.mitmpl2023@learner.manipal.edu	Attendee
+SHRAGVI RAVIRAJ - 220911037 - MITMPL	12/30/23, 6:00:05 PM	12/30/23, 6:46:09 PM	46m 4s	shragvi.mitmpl2022@learner.manipal.edu	shragvi.mitmpl2022@learner.manipal.edu	Attendee
+AJITH BALAKRISHNAN - 123158338 - MITMPL	12/30/23, 6:00:12 PM	12/30/23, 7:54:49 PM	1h 52m 53s	ajith.mitmpl2023@learner.manipal.edu	ajith.mitmpl2023@learner.manipal.edu	Attendee
+A S Aravinthakshan - 123115056 - MITMPL	12/30/23, 6:00:15 PM	12/30/23, 7:56:14 PM	1h 55m 59s	aravinthakshan.mitmpl2023@learner.manipal.edu	aravinthakshan.mitmpl2023@learner.manipal.edu	Attendee
+Akash Kulkarni - 123162828 - MITMPL	12/30/23, 6:00:27 PM	12/30/23, 7:22:45 PM	1h 22m 18s	akash3.mitmpl2023@learner.manipal.edu	akash3.mitmpl2023@learner.manipal.edu	Attendee
+Aarav Bhatia - 123103177 - MITMPL	12/30/23, 6:00:48 PM	12/30/23, 7:21:02 PM	1h 20m 13s	aarav.mitmpl2023@learner.manipal.edu	aarav.mitmpl2023@learner.manipal.edu	Attendee
+Akshat Pandey	12/30/23, 6:00:54 PM	12/30/23, 8:10:07 PM	2h 9m 13s			Attendee
+SAMARTH MEHRA - 220905009 - MITMPL	12/30/23, 6:01:01 PM	12/30/23, 6:27:29 PM	26m 27s	samarth.mitmpl2022@learner.manipal.edu	samarth.mitmpl2022@learner.manipal.edu	Attendee
+ADITYA KUMAR - 123157818 - MITMPL	12/30/23, 6:01:08 PM	12/30/23, 8:09:42 PM	1m 56s	aditya52.mitmpl2023@learner.manipal.edu	aditya52.mitmpl2023@learner.manipal.edu	Attendee
+Soumya Shrivastav - 123140270 - MITMPL	12/30/23, 6:01:09 PM	12/30/23, 7:32:11 PM	1h 31m 2s	soumya1.mitmpl2023@learner.manipal.edu	soumya1.mitmpl2023@learner.manipal.edu	Attendee
+MAYUR R DAS - 123108293 - MITMPL	12/30/23, 6:01:10 PM	12/30/23, 6:50:47 PM	43m 55s	mayur.mitmpl2023@learner.manipal.edu	mayur.mitmpl2023@learner.manipal.edu	Attendee
+Jayasree	12/30/23, 6:01:22 PM	12/30/23, 6:08:32 PM	7m 9s			Attendee
+Sanya Arora - 123121174 - MITMPL	12/30/23, 6:02:15 PM	12/30/23, 7:49:57 PM	29m 17s	sanya3.mitmpl2023@learner.manipal.edu	sanya3.mitmpl2023@learner.manipal.edu	Attendee
+Vatsal Jindal - 123100412 - MITMPL	12/30/23, 6:02:21 PM	12/30/23, 8:10:01 PM	2h 7m 39s	vatsal2.mitmpl2023@learner.manipal.edu	vatsal2.mitmpl2023@learner.manipal.edu	Attendee
+Ainesh Mohan	12/30/23, 6:02:22 PM	12/30/23, 6:06:20 PM	3m 57s			Attendee
+Sai Adarsh Palla - 123168341 - MITMPL	12/30/23, 6:02:47 PM	12/30/23, 7:00:33 PM	57m 45s	adarsh2.mitmpl2023@learner.manipal.edu	adarsh2.mitmpl2023@learner.manipal.edu	Attendee
+DEVANSH SHUKLA - 230905219 - MITMPL	12/30/23, 6:02:54 PM	12/30/23, 6:03:34 PM	40s	devansh6.mitmpl2023@learner.manipal.edu	devansh6.mitmpl2023@learner.manipal.edu	Attendee
+Konthalapalli Laalenthika - 123108258 - MITMPL	12/30/23, 6:03:07 PM	12/30/23, 8:09:42 PM	2h 6m 34s	konthalapalli.mitmpl2023@learner.manipal.edu	konthalapalli.mitmpl2023@learner.manipal.edu	Attendee
+Sai Prasad Prusty - 123119800 - MITMPL	12/30/23, 6:03:17 PM	12/30/23, 6:45:53 PM	34m 56s	prasad1.mitmpl2023@learner.manipal.edu	prasad1.mitmpl2023@learner.manipal.edu	Attendee
+VAIBHAV KRISHNA BANSAL - 123126042 - MITMPL	12/30/23, 6:03:32 PM	12/30/23, 6:46:04 PM	42m 32s	vaibhav3.mitmpl2023@learner.manipal.edu	vaibhav3.mitmpl2023@learner.manipal.edu	Attendee
+AYUSH SINGH - 122113239 - MITMPL	12/30/23, 6:04:09 PM	12/30/23, 6:14:45 PM	10m 35s	ayush5.mitmpl2022@learner.manipal.edu	ayush5.mitmpl2022@learner.manipal.edu	Attendee
+Yukti Bhatia - 123124875 - MITMPL	12/30/23, 6:04:23 PM	12/30/23, 6:49:58 PM	40m 41s	yukti.mitmpl2023@learner.manipal.edu	yukti.mitmpl2023@learner.manipal.edu	Attendee
+Ainesh Mohan - 123106428 - MITMPL	12/30/23, 6:04:24 PM	12/30/23, 8:08:45 PM	2h 4m 20s	aesh.mitmpl2023@learner.manipal.edu	aesh.mitmpl2023@learner.manipal.edu	Attendee
+Surabhi Sanjay - 123117081 - MITMPL	12/30/23, 6:04:39 PM	12/30/23, 7:04:35 PM	59m 55s	surabhi.mitmpl2023@learner.manipal.edu	surabhi.mitmpl2023@learner.manipal.edu	Attendee
+SHRISH PRATAP                            - 122114617 - MITMPL	12/30/23, 6:05:01 PM	12/30/23, 6:05:57 PM	55s	shrish1.mitmpl2022@learner.manipal.edu	shrish1.mitmpl2022@learner.manipal.edu	Attendee
+AISHWARYA VAIDYA - 122143249 - MITMPL	12/30/23, 6:06:26 PM	12/30/23, 6:27:19 PM	13m 15s	aishwarya.mitmpl2022@learner.manipal.edu	aishwarya.mitmpl2022@learner.manipal.edu	Attendee
+Lakshya Jain - 123112693 - MITMPL	12/30/23, 6:06:31 PM	12/30/23, 7:14:34 PM	1h 8m 2s	lakshya1.mitmpl2023@learner.manipal.edu	lakshya1.mitmpl2023@learner.manipal.edu	Attendee
+Hiten Raj Singh - 123124251 - MITMPL	12/30/23, 6:06:47 PM	12/30/23, 8:10:07 PM	2h 3m 20s	hiten.mitmpl2023@learner.manipal.edu	hiten.mitmpl2023@learner.manipal.edu	Attendee
+Mugdha Chatterjee - 123109480 - MITMPL	12/30/23, 6:06:59 PM	12/30/23, 8:07:04 PM	1h 52m 46s	mugdha.mitmpl2023@learner.manipal.edu	mugdha.mitmpl2023@learner.manipal.edu	Attendee
+Tanvi Badkar - 123130576 - MITMPL	12/30/23, 6:07:28 PM	12/30/23, 7:07:45 PM	1h 17s	tanvi2.mitmpl2023@learner.manipal.edu	tanvi2.mitmpl2023@learner.manipal.edu	Attendee
+Anshul Shukla - 123157510 - MITMPL	12/30/23, 6:07:58 PM	12/30/23, 7:37:52 PM	1h 29m 54s	anshul.mitmpl2023@learner.manipal.edu	anshul.mitmpl2023@learner.manipal.edu	Attendee
+JAYASREE MADIREDDY - 123146212 - MITMPL	12/30/23, 6:08:26 PM	12/30/23, 8:10:07 PM	2h 1m 41s	jayasree.mitmpl2023@learner.manipal.edu	jayasree.mitmpl2023@learner.manipal.edu	Attendee
+Arnavpreet Shergill - 123156458 - MITMPL	12/30/23, 6:08:27 PM	12/30/23, 7:04:16 PM	55m 48s	arnavpreet.mitmpl2023@learner.manipal.edu	arnavpreet.mitmpl2023@learner.manipal.edu	Attendee
+shiv	12/30/23, 6:08:29 PM	12/30/23, 6:53:46 PM	45m 17s			Attendee
+Vrushika K Urs - 123117525 - MITMPL	12/30/23, 6:09:21 PM	12/30/23, 6:49:35 PM	40m 13s	vrushika.mitmpl2023@learner.manipal.edu	vrushika.mitmpl2023@learner.manipal.edu	Attendee
+Ananya Sharma - 123173116 - MITMPL	12/30/23, 6:09:30 PM	12/30/23, 7:50:08 PM	1h 40m 38s	ananya2.mitmpl2023@learner.manipal.edu	ananya2.mitmpl2023@learner.manipal.edu	Attendee
+ARYAN KUDVA   - 230905165 - MITMPL	12/30/23, 6:09:38 PM	12/30/23, 6:38:05 PM	28m 26s	aryan.mitmpl2023@learner.manipal.edu	aryan.mitmpl2023@learner.manipal.edu	Attendee
+Riya Agarwal - 123142549 - MITMPL	12/30/23, 6:11:43 PM	12/30/23, 7:35:56 PM	1h 24m 12s	riya2.mitmpl2023@learner.manipal.edu	riya2.mitmpl2023@learner.manipal.edu	Attendee
+Aditya Nigam - 123125144 - MITMPL	12/30/23, 6:12:52 PM	12/30/23, 8:10:07 PM	1h 57m 15s	aditya23.mitmpl2023@learner.manipal.edu	aditya23.mitmpl2023@learner.manipal.edu	Attendee
+Nakul Bhat - 123101426 - MITMPL	12/30/23, 6:13:32 PM	12/30/23, 6:42:43 PM	29m 11s	nakul1.mitmpl2023@learner.manipal.edu	nakul1.mitmpl2023@learner.manipal.edu	Attendee
+ADICHERIKANDI SIDHARTH - 220905023 - MITMPL	12/30/23, 6:13:34 PM	12/30/23, 8:10:01 PM	1h 56m 27s	adicherikandi.mitmpl2022@learner.manipal.edu	adicherikandi.mitmpl2022@learner.manipal.edu	Attendee
+Sankalp Bajpai - 123118325 - MITMPL	12/30/23, 6:15:21 PM	12/30/23, 6:25:52 PM	10m 31s	sankalp1.mitmpl2023@learner.manipal.edu	sankalp1.mitmpl2023@learner.manipal.edu	Attendee
+SANDEEP KUMAR RAI - 210953294	12/30/23, 6:16:01 PM	12/30/23, 6:19:52 PM	3m 51s	sandeep.rai@learner.manipal.edu	sandeep.rai@learner.manipal.edu	Attendee
+PRANAV DAMARAJU - 123146188 - MITMPL	12/30/23, 6:16:31 PM	12/30/23, 7:03:19 PM	46m 47s	pranav11.mitmpl2023@learner.manipal.edu	pranav11.mitmpl2023@learner.manipal.edu	Attendee
+Shreya Agarwal - 123158648 - MITMPL	12/30/23, 6:17:10 PM	12/30/23, 6:18:49 PM	1m 38s	shreya3.mitmpl2023@learner.manipal.edu	shreya3.mitmpl2023@learner.manipal.edu	Attendee
+OMISHA GUHA - 122141963 - MITMPL	12/30/23, 6:18:01 PM	12/30/23, 6:50:58 PM	32m 57s	omisha.mitmpl2022@learner.manipal.edu	omisha.mitmpl2022@learner.manipal.edu	Attendee
+ASHWIN MITTAL - 122100855 - MITMPL	12/30/23, 6:50:25 PM	12/30/23, 6:56:27 PM	6m 2s	ashwin2.mitmpl2022@learner.manipal.edu	ashwin2.mitmpl2022@learner.manipal.edu	Attendee
+Mohammad Tausif - 123142490 - MITMPL	12/30/23, 6:56:07 PM	12/30/23, 7:00:06 PM	3m 58s	tausif.mitmpl2023@learner.manipal.edu	tausif.mitmpl2023@learner.manipal.edu	Attendee
+Joshi Yugandhar Shrikant - 123183786 - MITMPL	12/30/23, 6:59:24 PM	12/30/23, 7:07:31 PM	8m 6s	joshi1.mitmpl2023@learner.manipal.edu	joshi1.mitmpl2023@learner.manipal.edu	Attendee
+GOWRISH MALLYA - 122105252 - MITMPL	12/30/23, 7:25:08 PM	12/30/23, 7:25:31 PM	23s	gowrish.mitmpl2022@learner.manipal.edu	gowrish.mitmpl2022@learner.manipal.edu	Attendee
+Simone Menezes - 123151928 - MITMPL	12/30/23, 7:26:36 PM	12/30/23, 8:10:07 PM	43m 31s	simone.mitmpl2023@learner.manipal.edu	simone.mitmpl2023@learner.manipal.edu	Attendee
+Mohammad Tausif	12/30/23, 7:28:14 PM	12/30/23, 8:05:09 PM	36m 55s			Attendee
+ANISHA KUMARI - 123116482 - MITMPL	12/30/23, 7:42:03 PM	12/30/23, 7:53:40 PM	11m 36s	anisha.mitmpl2023@learner.manipal.edu	anisha.mitmpl2023@learner.manipal.edu	Attendee
+
+3. In-Meeting Activities
+Name	Join Time	Leave Time	Duration	Email	Role
+SHUBH SINHA - 210968172	12/30/23, 5:45:59 PM	12/30/23, 5:51:40 PM	5m 40s	shubh.sinha@learner.manipal.edu	Organizer
+SHUBH SINHA - 210968172	12/30/23, 6:41:18 PM	12/30/23, 6:44:40 PM	3m 22s	shubh.sinha@learner.manipal.edu	Organizer
+TEJESWAR POKURI - 122140880 - MITMPL	12/30/23, 5:43:19 PM	12/30/23, 8:10:07 PM	2h 26m 48s	tejeswar.mitmpl2022@learner.manipal.edu	Organizer
+SRISHTI SINGH - 122152572 - MITMPL	12/30/23, 5:45:12 PM	12/30/23, 8:10:07 PM	2h 24m 55s	srishti.mitmpl2022@learner.manipal.edu	Organizer
+Aman garg - 123191659 - MITMPL	12/30/23, 5:46:38 PM	12/30/23, 5:47:45 PM	1m 6s	aman1.mitmpl2023@learner.manipal.edu	Attendee
+Aman garg - 123191659 - MITMPL	12/30/23, 6:05:54 PM	12/30/23, 6:25:57 PM	20m 2s	aman1.mitmpl2023@learner.manipal.edu	Attendee
+Aman garg - 123191659 - MITMPL	12/30/23, 6:34:26 PM	12/30/23, 6:44:09 PM	9m 42s	aman1.mitmpl2023@learner.manipal.edu	Attendee
+Om Dhondge	12/30/23, 5:52:57 PM	12/30/23, 8:09:59 PM	2h 17m 2s		Attendee
+Diptarka Nandi - 123102883 - MITMPL	12/30/23, 5:54:50 PM	12/30/23, 8:09:18 PM	2h 14m 28s	diptarka.mitmpl2023@learner.manipal.edu	Attendee
+Riddhima Chauhan - 123157150 - MITMPL	12/30/23, 5:55:17 PM	12/30/23, 6:24:34 PM	29m 16s	riddhima1.mitmpl2023@learner.manipal.edu	Attendee
+Param Rahul Mehta - 123111735 - MITMPL	12/30/23, 5:55:48 PM	12/30/23, 7:03:37 PM	1h 7m 48s	param.mitmpl2023@learner.manipal.edu	Attendee
+Param Rahul Mehta - 123111735 - MITMPL	12/30/23, 7:40:56 PM	12/30/23, 7:52:18 PM	11m 21s	param.mitmpl2023@learner.manipal.edu	Attendee
+Shruten Harish Pande - 123147556 - MITMPL	12/30/23, 5:55:55 PM	12/30/23, 7:53:04 PM	1h 57m 8s	shruten.mitmpl2023@learner.manipal.edu	Attendee
+Vaidheesh Bharadwaj - 123138507 - MITMPL	12/30/23, 5:56:05 PM	12/30/23, 7:33:37 PM	1h 37m 31s	vaidheesh.mitmpl2023@learner.manipal.edu	Attendee
+HARSHA N K - 123143862 - MITMPL	12/30/23, 5:56:32 PM	12/30/23, 7:15:03 PM	1h 18m 30s	harsha.mitmpl2023@learner.manipal.edu	Attendee
+HARSHA N K - 123143862 - MITMPL	12/30/23, 7:17:39 PM	12/30/23, 7:42:54 PM	25m 15s	harsha.mitmpl2023@learner.manipal.edu	Attendee
+Barri Harshith - 123174617 - MITMPL	12/30/23, 5:56:43 PM	12/30/23, 6:12:15 PM	15m 31s	barri.mitmpl2023@learner.manipal.edu	Attendee
+Barri Harshith - 123174617 - MITMPL	12/30/23, 6:19:52 PM	12/30/23, 8:10:04 PM	1h 50m 11s	barri.mitmpl2023@learner.manipal.edu	Attendee
+PRASANNA - 123102188 - MITMPL	12/30/23, 5:57:17 PM	12/30/23, 8:09:39 PM	2h 12m 22s	prasanna.mitmpl2023@learner.manipal.edu	Attendee
+Uday	12/30/23, 5:57:26 PM	12/30/23, 6:42:55 PM	45m 29s		Attendee
+SWETA CHUNDURI - 210905414	12/30/23, 5:58:15 PM	12/30/23, 5:58:40 PM	25s	sweta.chunduri@learner.manipal.edu	Attendee
+SWETA CHUNDURI - 210905414	12/30/23, 6:19:38 PM	12/30/23, 6:20:32 PM	54s	sweta.chunduri@learner.manipal.edu	Attendee
+Nilamber Das Roy - 123186099 - MITMPL	12/30/23, 5:58:18 PM	12/30/23, 7:16:29 PM	1h 18m 10s	nilamber.mitmpl2023@learner.manipal.edu	Attendee
+Sapthami	12/30/23, 5:58:41 PM	12/30/23, 8:10:07 PM	2h 11m 25s		Attendee
+Akhil Appayya - 123104490 - MITMPL	12/30/23, 5:59:00 PM	12/30/23, 7:53:49 PM	1h 54m 48s	akhil.mitmpl2023@learner.manipal.edu	Attendee
+SUDEEP SHARMA - 123157274 - MITMPL	12/30/23, 5:59:22 PM	12/30/23, 7:42:39 PM	1h 43m 17s	sudeep.mitmpl2023@learner.manipal.edu	Attendee
+Annanya Tayal - 123117849 - MITMPL	12/30/23, 5:59:33 PM	12/30/23, 8:10:07 PM	2h 10m 34s	annanya.mitmpl2023@learner.manipal.edu	Attendee
+Hrithiq Gupta - 123176698 - MITMPL	12/30/23, 5:59:43 PM	12/30/23, 8:10:07 PM	2h 10m 24s	hrithiq.mitmpl2023@learner.manipal.edu	Attendee
+MANAN SETHI - 230905211 - MITMPL	12/30/23, 6:00:04 PM	12/30/23, 7:55:35 PM	1h 55m 30s	manan.mitmpl2023@learner.manipal.edu	Attendee
+SHRAGVI RAVIRAJ - 220911037 - MITMPL	12/30/23, 6:00:05 PM	12/30/23, 6:46:09 PM	46m 4s	shragvi.mitmpl2022@learner.manipal.edu	Attendee
+AJITH BALAKRISHNAN - 123158338 - MITMPL	12/30/23, 6:00:12 PM	12/30/23, 7:29:37 PM	1h 29m 24s	ajith.mitmpl2023@learner.manipal.edu	Attendee
+AJITH BALAKRISHNAN - 123158338 - MITMPL	12/30/23, 7:31:20 PM	12/30/23, 7:54:49 PM	23m 29s	ajith.mitmpl2023@learner.manipal.edu	Attendee
+A S Aravinthakshan - 123115056 - MITMPL	12/30/23, 6:00:15 PM	12/30/23, 7:56:14 PM	1h 55m 59s	aravinthakshan.mitmpl2023@learner.manipal.edu	Attendee
+Akash Kulkarni - 123162828 - MITMPL	12/30/23, 6:00:27 PM	12/30/23, 7:22:45 PM	1h 22m 18s	akash3.mitmpl2023@learner.manipal.edu	Attendee
+Aarav Bhatia - 123103177 - MITMPL	12/30/23, 6:00:48 PM	12/30/23, 7:21:02 PM	1h 20m 13s	aarav.mitmpl2023@learner.manipal.edu	Attendee
+Akshat Pandey	12/30/23, 6:00:54 PM	12/30/23, 8:10:07 PM	2h 9m 13s		Attendee
+SAMARTH MEHRA - 220905009 - MITMPL	12/30/23, 6:01:01 PM	12/30/23, 6:27:29 PM	26m 27s	samarth.mitmpl2022@learner.manipal.edu	Attendee
+ADITYA KUMAR - 123157818 - MITMPL	12/30/23, 6:01:08 PM	12/30/23, 6:01:53 PM	45s	aditya52.mitmpl2023@learner.manipal.edu	Attendee
+ADITYA KUMAR - 123157818 - MITMPL	12/30/23, 8:08:31 PM	12/30/23, 8:09:42 PM	1m 11s	aditya52.mitmpl2023@learner.manipal.edu	Attendee
+Soumya Shrivastav - 123140270 - MITMPL	12/30/23, 6:01:09 PM	12/30/23, 7:32:11 PM	1h 31m 2s	soumya1.mitmpl2023@learner.manipal.edu	Attendee
+MAYUR R DAS - 123108293 - MITMPL	12/30/23, 6:01:10 PM	12/30/23, 6:23:04 PM	21m 53s	mayur.mitmpl2023@learner.manipal.edu	Attendee
+MAYUR R DAS - 123108293 - MITMPL	12/30/23, 6:28:45 PM	12/30/23, 6:50:47 PM	22m 2s	mayur.mitmpl2023@learner.manipal.edu	Attendee
+Jayasree	12/30/23, 6:01:22 PM	12/30/23, 6:08:32 PM	7m 9s		Attendee
+Sanya Arora - 123121174 - MITMPL	12/30/23, 6:02:15 PM	12/30/23, 6:05:21 PM	3m 6s	sanya3.mitmpl2023@learner.manipal.edu	Attendee
+Sanya Arora - 123121174 - MITMPL	12/30/23, 6:11:57 PM	12/30/23, 6:14:15 PM	2m 17s	sanya3.mitmpl2023@learner.manipal.edu	Attendee
+Sanya Arora - 123121174 - MITMPL	12/30/23, 6:30:28 PM	12/30/23, 6:34:46 PM	4m 17s	sanya3.mitmpl2023@learner.manipal.edu	Attendee
+Sanya Arora - 123121174 - MITMPL	12/30/23, 6:48:21 PM	12/30/23, 7:03:04 PM	14m 42s	sanya3.mitmpl2023@learner.manipal.edu	Attendee
+Sanya Arora - 123121174 - MITMPL	12/30/23, 7:05:15 PM	12/30/23, 7:09:28 PM	4m 13s	sanya3.mitmpl2023@learner.manipal.edu	Attendee
+Sanya Arora - 123121174 - MITMPL	12/30/23, 7:40:38 PM	12/30/23, 7:40:51 PM	12s	sanya3.mitmpl2023@learner.manipal.edu	Attendee
+Sanya Arora - 123121174 - MITMPL	12/30/23, 7:49:26 PM	12/30/23, 7:49:57 PM	30s	sanya3.mitmpl2023@learner.manipal.edu	Attendee
+Vatsal Jindal - 123100412 - MITMPL	12/30/23, 6:02:21 PM	12/30/23, 8:10:01 PM	2h 7m 39s	vatsal2.mitmpl2023@learner.manipal.edu	Attendee
+Ainesh Mohan	12/30/23, 6:02:22 PM	12/30/23, 6:06:20 PM	3m 57s		Attendee
+Sai Adarsh Palla - 123168341 - MITMPL	12/30/23, 6:02:47 PM	12/30/23, 7:00:33 PM	57m 45s	adarsh2.mitmpl2023@learner.manipal.edu	Attendee
+DEVANSH SHUKLA - 230905219 - MITMPL	12/30/23, 6:02:54 PM	12/30/23, 6:03:34 PM	40s	devansh6.mitmpl2023@learner.manipal.edu	Attendee
+Konthalapalli Laalenthika - 123108258 - MITMPL	12/30/23, 6:03:07 PM	12/30/23, 8:09:42 PM	2h 6m 34s	konthalapalli.mitmpl2023@learner.manipal.edu	Attendee
+Sai Prasad Prusty - 123119800 - MITMPL	12/30/23, 6:03:17 PM	12/30/23, 6:08:36 PM	5m 18s	prasad1.mitmpl2023@learner.manipal.edu	Attendee
+Sai Prasad Prusty - 123119800 - MITMPL	12/30/23, 6:11:22 PM	12/30/23, 6:17:37 PM	6m 15s	prasad1.mitmpl2023@learner.manipal.edu	Attendee
+Sai Prasad Prusty - 123119800 - MITMPL	12/30/23, 6:22:30 PM	12/30/23, 6:45:53 PM	23m 23s	prasad1.mitmpl2023@learner.manipal.edu	Attendee
+VAIBHAV KRISHNA BANSAL - 123126042 - MITMPL	12/30/23, 6:03:32 PM	12/30/23, 6:46:04 PM	42m 32s	vaibhav3.mitmpl2023@learner.manipal.edu	Attendee
+AYUSH SINGH - 122113239 - MITMPL	12/30/23, 6:04:09 PM	12/30/23, 6:14:45 PM	10m 35s	ayush5.mitmpl2022@learner.manipal.edu	Attendee
+Yukti Bhatia - 123124875 - MITMPL	12/30/23, 6:04:23 PM	12/30/23, 6:08:56 PM	4m 32s	yukti.mitmpl2023@learner.manipal.edu	Attendee
+Yukti Bhatia - 123124875 - MITMPL	12/30/23, 6:13:49 PM	12/30/23, 6:49:58 PM	36m 9s	yukti.mitmpl2023@learner.manipal.edu	Attendee
+Ainesh Mohan - 123106428 - MITMPL	12/30/23, 6:04:24 PM	12/30/23, 8:08:45 PM	2h 4m 20s	aesh.mitmpl2023@learner.manipal.edu	Attendee
+Surabhi Sanjay - 123117081 - MITMPL	12/30/23, 6:04:39 PM	12/30/23, 7:04:35 PM	59m 55s	surabhi.mitmpl2023@learner.manipal.edu	Attendee
+SHRISH PRATAP                            - 122114617 - MITMPL	12/30/23, 6:05:01 PM	12/30/23, 6:05:57 PM	55s	shrish1.mitmpl2022@learner.manipal.edu	Attendee
+AISHWARYA VAIDYA - 122143249 - MITMPL	12/30/23, 6:06:26 PM	12/30/23, 6:09:41 PM	3m 15s	aishwarya.mitmpl2022@learner.manipal.edu	Attendee
+AISHWARYA VAIDYA - 122143249 - MITMPL	12/30/23, 6:16:14 PM	12/30/23, 6:23:14 PM	6m 59s	aishwarya.mitmpl2022@learner.manipal.edu	Attendee
+AISHWARYA VAIDYA - 122143249 - MITMPL	12/30/23, 6:24:17 PM	12/30/23, 6:27:19 PM	3m 1s	aishwarya.mitmpl2022@learner.manipal.edu	Attendee
+Lakshya Jain - 123112693 - MITMPL	12/30/23, 6:06:31 PM	12/30/23, 7:14:34 PM	1h 8m 2s	lakshya1.mitmpl2023@learner.manipal.edu	Attendee
+Hiten Raj Singh - 123124251 - MITMPL	12/30/23, 6:06:47 PM	12/30/23, 8:10:07 PM	2h 3m 20s	hiten.mitmpl2023@learner.manipal.edu	Attendee
+Mugdha Chatterjee - 123109480 - MITMPL	12/30/23, 6:06:59 PM	12/30/23, 6:59:54 PM	52m 55s	mugdha.mitmpl2023@learner.manipal.edu	Attendee
+Mugdha Chatterjee - 123109480 - MITMPL	12/30/23, 7:07:12 PM	12/30/23, 8:07:04 PM	59m 51s	mugdha.mitmpl2023@learner.manipal.edu	Attendee
+Tanvi Badkar - 123130576 - MITMPL	12/30/23, 6:07:28 PM	12/30/23, 7:07:45 PM	1h 17s	tanvi2.mitmpl2023@learner.manipal.edu	Attendee
+Anshul Shukla - 123157510 - MITMPL	12/30/23, 6:07:58 PM	12/30/23, 7:37:52 PM	1h 29m 54s	anshul.mitmpl2023@learner.manipal.edu	Attendee
+JAYASREE MADIREDDY - 123146212 - MITMPL	12/30/23, 6:08:26 PM	12/30/23, 8:10:07 PM	2h 1m 41s	jayasree.mitmpl2023@learner.manipal.edu	Attendee
+Arnavpreet Shergill - 123156458 - MITMPL	12/30/23, 6:08:27 PM	12/30/23, 7:04:16 PM	55m 48s	arnavpreet.mitmpl2023@learner.manipal.edu	Attendee
+shiv	12/30/23, 6:08:29 PM	12/30/23, 6:53:46 PM	45m 17s		Attendee
+Vrushika K Urs - 123117525 - MITMPL	12/30/23, 6:09:21 PM	12/30/23, 6:49:35 PM	40m 13s	vrushika.mitmpl2023@learner.manipal.edu	Attendee
+Ananya Sharma - 123173116 - MITMPL	12/30/23, 6:09:30 PM	12/30/23, 7:50:08 PM	1h 40m 38s	ananya2.mitmpl2023@learner.manipal.edu	Attendee
+ARYAN KUDVA   - 230905165 - MITMPL	12/30/23, 6:09:38 PM	12/30/23, 6:38:05 PM	28m 26s	aryan.mitmpl2023@learner.manipal.edu	Attendee
+Riya Agarwal - 123142549 - MITMPL	12/30/23, 6:11:43 PM	12/30/23, 7:35:56 PM	1h 24m 12s	riya2.mitmpl2023@learner.manipal.edu	Attendee
+Aditya Nigam - 123125144 - MITMPL	12/30/23, 6:12:52 PM	12/30/23, 8:10:07 PM	1h 57m 15s	aditya23.mitmpl2023@learner.manipal.edu	Attendee
+Nakul Bhat - 123101426 - MITMPL	12/30/23, 6:13:32 PM	12/30/23, 6:42:43 PM	29m 11s	nakul1.mitmpl2023@learner.manipal.edu	Attendee
+ADICHERIKANDI SIDHARTH - 220905023 - MITMPL	12/30/23, 6:13:34 PM	12/30/23, 8:10:01 PM	1h 56m 27s	adicherikandi.mitmpl2022@learner.manipal.edu	Attendee
+Sankalp Bajpai - 123118325 - MITMPL	12/30/23, 6:15:21 PM	12/30/23, 6:25:52 PM	10m 31s	sankalp1.mitmpl2023@learner.manipal.edu	Attendee
+SANDEEP KUMAR RAI - 210953294	12/30/23, 6:16:01 PM	12/30/23, 6:19:52 PM	3m 51s	sandeep.rai@learner.manipal.edu	Attendee
+PRANAV DAMARAJU - 123146188 - MITMPL	12/30/23, 6:16:31 PM	12/30/23, 7:03:19 PM	46m 47s	pranav11.mitmpl2023@learner.manipal.edu	Attendee
+Shreya Agarwal - 123158648 - MITMPL	12/30/23, 6:17:10 PM	12/30/23, 6:18:49 PM	1m 38s	shreya3.mitmpl2023@learner.manipal.edu	Attendee
+OMISHA GUHA - 122141963 - MITMPL	12/30/23, 6:18:01 PM	12/30/23, 6:50:58 PM	32m 57s	omisha.mitmpl2022@learner.manipal.edu	Attendee
+ASHWIN MITTAL - 122100855 - MITMPL	12/30/23, 6:50:25 PM	12/30/23, 6:56:27 PM	6m 2s	ashwin2.mitmpl2022@learner.manipal.edu	Attendee
+Mohammad Tausif - 123142490 - MITMPL	12/30/23, 6:56:07 PM	12/30/23, 7:00:06 PM	3m 58s	tausif.mitmpl2023@learner.manipal.edu	Attendee
+Joshi Yugandhar Shrikant - 123183786 - MITMPL	12/30/23, 6:59:24 PM	12/30/23, 7:07:31 PM	8m 6s	joshi1.mitmpl2023@learner.manipal.edu	Attendee
+GOWRISH MALLYA - 122105252 - MITMPL	12/30/23, 7:25:08 PM	12/30/23, 7:25:31 PM	23s	gowrish.mitmpl2022@learner.manipal.edu	Attendee
+Simone Menezes - 123151928 - MITMPL	12/30/23, 7:26:36 PM	12/30/23, 8:10:07 PM	43m 31s	simone.mitmpl2023@learner.manipal.edu	Attendee
+Mohammad Tausif	12/30/23, 7:28:14 PM	12/30/23, 8:05:09 PM	36m 55s		Attendee
+ANISHA KUMARI - 123116482 - MITMPL	12/30/23, 7:42:03 PM	12/30/23, 7:53:40 PM	11m 36s	anisha.mitmpl2023@learner.manipal.edu	Attendee
