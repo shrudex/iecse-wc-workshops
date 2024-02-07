@@ -8,7 +8,7 @@ This repository contains resources and materials for the "Arrays and Sliding Win
   - GitHub: [AnujKamath](https://github.com/AnujKamath)
 
 - Pragadeeshwar Kannan
-  - GitHub: 
+  - GitHub: [prag-z](https://github.com/prag-z)
 
 ## Topics Covered 📚
 The workshop covered the following topics:
