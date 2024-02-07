@@ -40,4 +40,4 @@ The workshop covered the following topics:
 ## Resources 📦
   
 ### Presentation Files 🖥️
-- [Handout]([./W2-Basic%20Maths%20%26%20Recursion.pdf](https://github.com/shrudex/iecse-wc-workshops/blob/main/03%20-%20Arrays%20and%20Sliding%20Window/Arrays%20and%20Sliding%20Window%20Workshop%20-%20IECSE!.pdf)https://github.com/shrudex/iecse-wc-workshops/blob/main/03%20-%20Arrays%20and%20Sliding%20Window/Arrays%20and%20Sliding%20Window%20Workshop%20-%20IECSE!.pdf)
+- [Handout](./Arrays%20and%20Sliding%20Window%20Workshop%20-%20IECSE!.pdf)
